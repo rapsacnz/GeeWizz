@@ -1,0 +1,1188 @@
+[
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1559034536606,
+            "changeTime": 1559034559992,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1559029639576,
+            "changeTime": 1559034559991,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1559082207753,
+            "changeTime": 1559082207753,
+            "contentHash": "b77f72071d71926ea1aaa66ba5c4e3a1773e4e50"
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 448,
+            "modifiedTime": 1559081633547,
+            "changeTime": 1559081633547,
+            "contentHash": "fa083053769892bc1353489d19a646cf24677834",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ApplicationEvent",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ApplicationEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1546993667544,
+            "changeTime": 1559034559987,
+            "contentHash": "0bae068cad2ff1335a93aad8ae684e962184af4d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ApplicationEvent/ApplicationEvent.evt",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ApplicationEvent/ApplicationEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 188,
+            "modifiedTime": 1546993667545,
+            "changeTime": 1559034559987,
+            "contentHash": "7a6e1ed1de94843957f1f5d1c8b8435f622b08dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ApplicationEvent/ApplicationEvent.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ApplicationEvent/ApplicationEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546993667544,
+            "changeTime": 1559034559987,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentEvent",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1546993667575,
+            "changeTime": 1559034559982,
+            "contentHash": "911cfbfbf9b37d4e4819afe2741cf8da6ffad8a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentEvent/ComponentEvent.evt",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentEvent/ComponentEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 229,
+            "modifiedTime": 1546993667575,
+            "changeTime": 1559034559981,
+            "contentHash": "4285292f7190d5b30a20022556fcb26e0433595e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentEvent/ComponentEvent.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentEvent/ComponentEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1546993667575,
+            "changeTime": 1559034559982,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1559066140607,
+            "changeTime": 1559066140607,
+            "contentHash": "3862f6970c7b48a354a7e2098ebed9b698cd5e64",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTester.app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTester.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 119,
+            "modifiedTime": 1559066140607,
+            "changeTime": 1559066140607,
+            "contentHash": "a5213701b36f2fe249d83980d6b3a9915ac10d9d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTester.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTester.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 249,
+            "modifiedTime": 1559065446810,
+            "changeTime": 1559065446810,
+            "contentHash": "8774ecc48b798eea937bd2dabb6f15fe78ed92e5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTester.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTester.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1559065446814,
+            "changeTime": 1559065446814,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTester.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTester.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1559065446811,
+            "changeTime": 1559065446811,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTester.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTester.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1559065446813,
+            "changeTime": 1559065446813,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTesterController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTesterController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1559065446810,
+            "changeTime": 1559065446810,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTesterHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTesterHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1559065446810,
+            "changeTime": 1559065446810,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTesterRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/ComponentTester/ComponentTesterRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1559065446812,
+            "changeTime": 1559065446812,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizz",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizz",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1559068519611,
+            "changeTime": 1559068519611,
+            "contentHash": "2c57cd2686e09a0ce1fb9a853786576cac76958c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizz/GeeWizz.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizz/GeeWizz.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2347,
+            "modifiedTime": 1559069788998,
+            "changeTime": 1559069788998,
+            "contentHash": "00e072ac56580f6ab2e7c2d64d115f37d0ceec0a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizz/GeeWizz.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizz/GeeWizz.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1555438190485,
+            "changeTime": 1559034559968,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizz/GeeWizz.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizz/GeeWizz.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 142,
+            "modifiedTime": 1559068828257,
+            "changeTime": 1559068828257,
+            "contentHash": "35b6b27717853dcde3adf1ea758a8f2e6121f2e5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizz/GeeWizzController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizz/GeeWizzController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 276,
+            "modifiedTime": 1559017593127,
+            "changeTime": 1559034559970,
+            "contentHash": "2aa6101710bab59e7ea0ee1a65cb8720ec0f28c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizz/GeeWizzHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizz/GeeWizzHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3563,
+            "modifiedTime": 1559017707704,
+            "changeTime": 1559034559970,
+            "contentHash": "8fe8c5f90f27527b5809a5bb0931cb2c1fc4f401",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzInterface",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzInterface",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1559034210583,
+            "changeTime": 1559034559980,
+            "contentHash": "988ebdce74b068abe3dce66ddbbea85b2a9f17ca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzInterface/GeeWizzInterface.intf",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzInterface/GeeWizzInterface.intf",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 211,
+            "modifiedTime": 1559018137326,
+            "changeTime": 1559034559980,
+            "contentHash": "d083dfa7211632400550f6c7f51f68c5707dfa74",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzInterface/GeeWizzInterface.intf-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzInterface/GeeWizzInterface.intf-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1555438190497,
+            "changeTime": 1559034559980,
+            "contentHash": "253d779a511db2653a48d81a71dc3ccda1470303",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1559066413001,
+            "changeTime": 1559066413001,
+            "contentHash": "babef2b2aa1313651237cc65977fbbd1fc0199de",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpener.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpener.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1559064528320,
+            "changeTime": 1559064528320,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpener.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpener.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 651,
+            "modifiedTime": 1559064848098,
+            "changeTime": 1559066387032,
+            "contentHash": "55b9e3c734d81dcd41f193320b606a0f4bb83cba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpener.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpener.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 245,
+            "modifiedTime": 1559064528318,
+            "changeTime": 1559064528318,
+            "contentHash": "f8d1ac61517e5a7eb433e3d3024ab7a944eb7879",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpener.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpener.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1559064528319,
+            "changeTime": 1559064528319,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpener.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpener.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1559064528321,
+            "changeTime": 1559064528321,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpener.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpener.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1559064528320,
+            "changeTime": 1559064528320,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpenerController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpenerController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 490,
+            "modifiedTime": 1559066413001,
+            "changeTime": 1559066413002,
+            "contentHash": "9fbaf6cfc66db6912f0d1a29ab055db385759f7e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpenerHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpenerHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1559064528319,
+            "changeTime": 1559064528319,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpenerRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzOpener/GeeWizzOpenerRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1559064528320,
+            "changeTime": 1559064528320,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1559034274146,
+            "changeTime": 1559034559974,
+            "contentHash": "2e94de5f564e86b027a29505f4734f31c0da7e45",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep/GeeWizzStep.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep/GeeWizzStep.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 711,
+            "modifiedTime": 1559034274146,
+            "changeTime": 1559034559973,
+            "contentHash": "0b2a85b97fabc2cd40543ea4d22a5e902ceff64a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep/GeeWizzStep.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep/GeeWizzStep.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1555438190492,
+            "changeTime": 1559034559974,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep/GeeWizzStep.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep/GeeWizzStep.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 79,
+            "modifiedTime": 1555438190493,
+            "changeTime": 1559034559971,
+            "contentHash": "456ce977aea592d34442af56e1c10c4666e0772a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep/GeeWizzStepController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep/GeeWizzStepController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 232,
+            "modifiedTime": 1556910071195,
+            "changeTime": 1559034559973,
+            "contentHash": "1610305ca9ea435fa06a517f988f2e1fc058d854",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep/GeeWizzStepHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep/GeeWizzStepHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1166,
+            "modifiedTime": 1555438190493,
+            "changeTime": 1559034559971,
+            "contentHash": "6b94a1c4b0c2e88b684fb47d968c9d73fc1f8a21",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep1",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1559027028568,
+            "changeTime": 1559034559986,
+            "contentHash": "b2e302954b6c874a86f21b4692e5171a90bdf0df",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep1/GeeWizzStep1.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep1/GeeWizzStep1.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2887,
+            "modifiedTime": 1559069040988,
+            "changeTime": 1559069040988,
+            "contentHash": "940955b4732951c60328b2330c827f0ce4a0ecc0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep1/GeeWizzStep1.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep1/GeeWizzStep1.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1555438190499,
+            "changeTime": 1559034559985,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep1/GeeWizzStep1Controller.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep1/GeeWizzStep1Controller.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 357,
+            "modifiedTime": 1559069262778,
+            "changeTime": 1559069262778,
+            "contentHash": "2613765098bb88824bfa99bc6c6e4960d4b05736",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep1/GeeWizzStep1Helper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep1/GeeWizzStep1Helper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 8,
+            "modifiedTime": 1559027028568,
+            "changeTime": 1559034559986,
+            "contentHash": "d51f000b1eba27bade6849437b65dbb0fa128e27",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep2",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1559027134875,
+            "changeTime": 1559034559978,
+            "contentHash": "d7f3724f1ea7d6c10b8d0babd8f8bac947be0f7e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep2/GeeWizzStep2.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep2/GeeWizzStep2.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1200,
+            "modifiedTime": 1559069612190,
+            "changeTime": 1559069612190,
+            "contentHash": "67e84e0904c090b058ecdbf1064e9b3ff5db6fed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep2/GeeWizzStep2.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep2/GeeWizzStep2.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1555438190499,
+            "changeTime": 1559034559977,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep2/GeeWizzStep2Controller.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep2/GeeWizzStep2Controller.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 349,
+            "modifiedTime": 1559082077538,
+            "changeTime": 1559082077538,
+            "contentHash": "b5854a616e86aa347a14ad917322ac2a956097dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep2/GeeWizzStep2Helper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep2/GeeWizzStep2Helper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 8,
+            "modifiedTime": 1559027028568,
+            "changeTime": 1559034559977,
+            "contentHash": "d51f000b1eba27bade6849437b65dbb0fa128e27",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep3",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep3",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1559081690713,
+            "changeTime": 1559081690713,
+            "contentHash": "7261f1b10d75cd3b73c7587a7cd064600c62f100",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep3/GeeWizzStep3.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep3/GeeWizzStep3.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 802,
+            "modifiedTime": 1559082000902,
+            "changeTime": 1559082000902,
+            "contentHash": "b3d38984f3af9921bec4361ee18690dfd1726a59",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep3/GeeWizzStep3.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep3/GeeWizzStep3.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 244,
+            "modifiedTime": 1559081633549,
+            "changeTime": 1559081633549,
+            "contentHash": "9198a16650c640001b009db50d93393c3eebba2c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep3/GeeWizzStep3.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep3/GeeWizzStep3.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1559081633550,
+            "changeTime": 1559081633550,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep3/GeeWizzStep3Controller.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep3/GeeWizzStep3Controller.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 777,
+            "modifiedTime": 1559081998098,
+            "changeTime": 1559081998098,
+            "contentHash": "66fb140a01cea5a35fab7f60f141de9960030982",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep3/GeeWizzStep3Helper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/GeeWizzStep3/GeeWizzStep3Helper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1559081633550,
+            "changeTime": 1559081633550,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/NotificationHandler",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/NotificationHandler",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1546993667560,
+            "changeTime": 1559034559990,
+            "contentHash": "679ed2f02e94c6bb38adcff09c908b65dfe423dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/NotificationHandler/NotificationHandler.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/NotificationHandler/NotificationHandler.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 289,
+            "modifiedTime": 1546993667559,
+            "changeTime": 1559034559988,
+            "contentHash": "51828763c237d74cccfd3e60c5518987160fce82",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/NotificationHandler/NotificationHandler.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/NotificationHandler/NotificationHandler.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 238,
+            "modifiedTime": 1546993667559,
+            "changeTime": 1559034559990,
+            "contentHash": "dadf60d3f808396dcf22c34c38d6df112096b075",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/NotificationHandler/NotificationHandler.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/NotificationHandler/NotificationHandler.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1546993667560,
+            "changeTime": 1559034559989,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/NotificationHandler/NotificationHandlerController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/NotificationHandler/NotificationHandlerController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 550,
+            "modifiedTime": 1546993667559,
+            "changeTime": 1559034559989,
+            "contentHash": "b24f9ac7b744c32d248de8299968f74ec2f71383",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/NotificationHandler/NotificationHandlerHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/aura/NotificationHandler/NotificationHandlerHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2048,
+            "modifiedTime": 1546993667560,
+            "changeTime": 1559034559988,
+            "contentHash": "6537c2516fc6a7b283001d3d907031aa92b9e412",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1559029639576,
+            "changeTime": 1559034559964,
+            "contentHash": "76e289d2d4d831eba496e8b44dc7ba02f2756b15",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/classes/DemoController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/classes/DemoController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 928,
+            "modifiedTime": 1559029639576,
+            "changeTime": 1559034559964,
+            "contentHash": "9f0477e01923599c93bc2b63d1e7c24e4c5cdfde",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/classes/DemoController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/classes/DemoController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1559029639576,
+            "changeTime": 1559034559963,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/pages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1559029639577,
+            "changeTime": 1559034559991,
+            "contentHash": "8321bf938eae81fc8c55f4bafb5c03e963cd1dbb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/pages/DemoPage.page",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/pages/DemoPage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1543,
+            "modifiedTime": 1559029639577,
+            "changeTime": 1559034559991,
+            "contentHash": "d56cc77570ddc24f356d35ab346feeace058e68d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/pages/DemoPage.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/pages/DemoPage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 274,
+            "modifiedTime": 1559029639577,
+            "changeTime": 1559034559991,
+            "contentHash": "bb64cc431860f5c9c14f5fb41d5e59eeaf9a7d52",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1559082207771,
+            "changeTime": 1559082207771,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18813,
+            "modifiedTime": 1559034836810,
+            "changeTime": 1559034836810,
+            "contentHash": "fa89cf0a0c79a0d935cf1aac7e3c22af81dc4b60",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz",
+        {
+            "state": "n",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 480,
+            "modifiedTime": 1559066714989,
+            "changeTime": 1559066714989,
+            "contentHash": "bab73f06396d13917804152452ed713a9a816510",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/tabs/Open_Wizard.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/tabs/Open_Wizard.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1559082207755,
+            "changeTime": 1559082207755,
+            "contentHash": "e2998b98b57a85195b7e7416bcccfb017fa414cc"
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4791,
+            "modifiedTime": 1559082207761,
+            "changeTime": 1559082207761,
+            "contentHash": "f3b507bcb80698df2be781abf13f5aceb26e64ef"
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4791,
+            "modifiedTime": 1559082207765,
+            "changeTime": 1559082207765,
+            "contentHash": "f3b507bcb80698df2be781abf13f5aceb26e64ef"
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5129,
+            "modifiedTime": 1559082207771,
+            "changeTime": 1559082207771,
+            "contentHash": "f714b3021f77f384ca95f79e4675dc9991150b8e"
+        }
+    ],
+    [
+        "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/caspar/Projects/LightningComponents/GeeWizz/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1559082207754,
+            "changeTime": 1559082207754,
+            "contentHash": "57e118b50004cc2505330aaeb9fdf6f3e81af923"
+        }
+    ]
+]
