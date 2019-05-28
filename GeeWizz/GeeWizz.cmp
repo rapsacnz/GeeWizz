@@ -1,0 +1,68 @@
+<aura:component implements="force:lightningQuickAction,force:hasRecordId">
+
+  <!-- <ltng:require scripts="{!$Resource.squel_basic_min}" afterScriptsLoaded="{!c.init}" /> -->
+
+  <aura:attribute name="userId" type="String" />
+  <aura:attribute name="yourStage" type="String" default="type" description="add stages that you want to progress through" />
+  <aura:attribute name="recordId" type="String" default="" />
+  <aura:attribute name="error" type="String" />
+  <aura:attribute name="context" type="Map" default="{}"/>
+
+  <aura:attribute name="nextComponentNameMap" type="Map" default='{
+    "":"WizardStep1",
+    "cWizardStep1":"WizardStep2",
+    "cWizardStep2":"WizardStep3",
+    "cWizardStep3":""
+  }' />
+
+  <aura:attribute name="previousComponentNameMap" type="Map" default='{
+    "cWizardStep1":"",
+    "cWizardStep2":"WizardStep1",
+    "cWizardStep3":"WizardStep2",
+    "":"WizardStep3"
+  }' />
+
+  <aura:attribute name="nameToStatusMap" type="Map" default='{
+    "cWizardStep1":"Page 1 Status",
+    "cWizardStep2":"Page 2 Status",
+    "cWizardStep3":"Page 3 Status"
+  }' />
+
+  <aura:registerEvent name="componentEvent" type="c:ComponentEvent" />
+  <aura:registerEvent name="applicationEvent" type="c:ApplicationEvent" />
+  <aura:handler event="c:ComponentEvent" action="{!c.handleComponentEvent}" name="componentEvent" phase="bubble" />
+  <aura:handler event="c:ApplicationEvent" action="{!c.handleApplicationEvent}" />
+  <aura:method name="notify" action="{!c.notify}">
+    <aura:attribute name="data" type="Object" default="{}" />
+  </aura:method>
+
+  <aura:attribute name="hasDefault" type="Boolean" default="true" />
+  <aura:attribute name="isLoading" type="Boolean" default="true" />
+
+  <lightning:overlayLibrary aura:id="overlayLib"/>
+  <!-- <c:Apex_Execute aura:id="server" /> -->
+  <c:NotificationHandler aura:id="NotificationHandler" />
+
+  <div class="container">
+
+    <div class="slds-page-header slds-m-bottom_small">
+      <div class="slds-media">
+        <div class="slds-media__figure">
+          <lightning:icon class="slds-icon " size="medium" iconName="standard:groups" alternativeText="Group" />
+        </div>
+        <div class="slds-media__body">
+          <h1 class="slds-page-header__title slds-truncate slds-align-middle slds-m-top_xx-small" >Gee Wizz!!</h1>
+        </div>
+      </div>
+    </div>
+
+    <!-- <div aura:id="picklistpathdiv"/> -->
+
+    {!v.body}
+
+    <!-- <div aura:id="wizardcontentdiv">
+    </div> -->
+
+  </div>
+
+</aura:component>

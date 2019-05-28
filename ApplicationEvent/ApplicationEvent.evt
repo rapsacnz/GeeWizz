@@ -1,0 +1,6 @@
+<aura:event type="APPLICATION" description="Event template" >
+
+    <aura:attribute name="category" type="String" />
+    <aura:attribute name="data" type="Map" default="{}"/>
+
+</aura:event>

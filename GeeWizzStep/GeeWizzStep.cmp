@@ -1,0 +1,20 @@
+<aura:component implements="c.GeeWizzInterface" abstract="true" extensible="true" >
+
+  <aura:attribute name="next" type="Object"/>
+  <aura:attribute name="previous" type="Object"/>
+  <aura:attribute name="close" type="Object"/>
+  <aura:attribute name="notify" type="Object"/>
+  <aura:attribute name="setStatus" type="Object"/>
+  <aura:attribute name="context" type="Object"/>
+  <aura:attribute name="order" type="Object"/>
+  <aura:attribute name="direction" type="String" default="forwards"/>
+
+  <c:Apex_Execute aura:id="server" />
+
+  <aura:registerEvent name="componentEvent" type="c:ComponentEvent" />
+
+  <aura:handler name="init" value="{!this}" action="{!c.init}" />
+
+  {!v.body}
+
+</aura:component>

@@ -1,0 +1,11 @@
+<aura:component >
+
+   <!-- <lightning:notificationsLibrary aura:id="notifLib"/> -->
+
+    <aura:method name="notify" action="{!c.notify}">
+        <aura:attribute name="category" type="String" />
+        <aura:attribute name="message" type="String" />
+    </aura:method>
+
+
+</aura:component>

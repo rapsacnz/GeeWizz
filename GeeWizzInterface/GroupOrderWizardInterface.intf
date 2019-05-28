@@ -1,0 +1,6 @@
+<aura:interface description="Contains the attributes common to wizard panes in the interface">
+
+    <aura:attribute name="userId" type="Id" />
+    <aura:attribute name="error" type="String" />
+
+</aura:interface>
