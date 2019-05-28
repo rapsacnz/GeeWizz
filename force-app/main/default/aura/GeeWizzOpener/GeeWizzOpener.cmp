@@ -1,0 +1,21 @@
+<aura:component implements="forceCommunity:availableForAllPageTypes,force:appHostable">
+    <!-- <aura:handler event="c:newGeeWizz" action="{!c.handleShowModal}"/> -->
+    <aura:html tag="style">
+        slds-modal__container {
+          margin: 0 auto;
+          width: 75%;
+          max-width: 60rem;
+          min-width: 20rem;
+      }
+      </aura:html>
+
+  <lightning:overlayLibrary aura:id="overlayLib"/>
+
+  <!-- we can hide this if we are opening the button from an action -->
+  <div class="slds-grid slds-grid_reverse" >
+    <a class="slds-button slds-button_brand" onclick="{!c.handleShowModal}">New Wizard</a>
+  </div>
+  
+
+
+</aura:component>

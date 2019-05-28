@@ -1,0 +1,39 @@
+<aura:component extends="c:GeeWizzStep">
+
+  <aura:method name="init" action="{!c.noOp}" />
+
+  <aura:attribute name="options" type="List" default="[
+  { label: 'English', value: 'en' },
+  { label: 'German', value: 'de' },
+  { label: 'Spanish', value: 'es' },
+  { label: 'French', value: 'fr' },
+  { label: 'Japanese', value: 'ja' }]"/>
+
+  <div>
+  <div class=" slds-text-heading_medium slds-m-around_medium">Gee Wizz: Select Some More Stuff</div>
+  <div class=" slds-card ">
+
+  <fieldset class="slds-form-element slds-p-around_medium " style="flex:1;">
+
+
+    <lightning:dualListbox name="languages"
+                       label= "Select Languages"
+                       sourceLabel="Available"
+                       selectedLabel="Selected"
+                       fieldLevelHelp="This is a dual listbox"
+                       options="{!v.options}" />
+
+  </fieldset>
+
+
+  <footer class="slds-card__footer slds-modal__footer " style="text-align:center;">
+    <button class="slds-button slds-button_neutral" onclick="{!c.handleCloseClick}">Cancel</button>
+    <button class="slds-button slds-button_brand" onclick="{!c.handleNextClick}">Next</button>
+  </footer>
+  </div>
+
+
+  </div>
+
+
+</aura:component>

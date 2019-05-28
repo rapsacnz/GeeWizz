@@ -10,9 +10,9 @@
       <div class="slds-grid slds-gutters_direct slds-wrap slds-form-element__control">
         <div class="slds-col slds-size_1-of-1 slds-large-size_1-of-1 " >
           <div class="slds-visual-picker slds-visual-picker_vertical " style="width: 100%">
-            <input type="radio" id="singleCourseRadio" name="options" value="visual-picker-1" checked="{!v.singleCourse}"  onchange="{!c.handleSingleCourseChange}" />
+            <input type="radio" id="singleCourseRadio" name="options" value="visual-picker-1"  />
             <label for="singleCourseRadio">
-              <span class="slds-visual-picker__figure slds-visual-picker__text slds-align_absolute-center" style="width: 100%">
+              <span class="slds-visual-picker__figure slds-visual-picker__text " style="width: 100%">
                 <span style="max-width: 500px;">
                   <span class="slds-text-heading_medium slds-m-bottom_x-small">Option 1</span>
                   <span class="slds-text-title">This option is a really great one and is the first option</span>
@@ -25,9 +25,9 @@
 
         <div class="slds-col slds-size_1-of-1 slds-large-size_1-of-1 slds-m-top_small " >
           <div class="slds-visual-picker slds-visual-picker_vertical " style="width: 100%">
-            <input type="radio" id="unlimitedCourseRadio" name="options" value="visual-picker-2"  checked="{!v.unlimitedCourse}" onchange="{!c.handleUnlimitedCourseChange}"/>
+            <input type="radio" id="unlimitedCourseRadio" name="options" value="visual-picker-2"   />
             <label for="unlimitedCourseRadio">
-              <span class="slds-visual-picker__figure slds-visual-picker__text slds-align_absolute-center" style="width: 100%">
+              <span class="slds-visual-picker__figure slds-visual-picker__text " style="width: 100%">
                 <span style="max-width: 500px;">
                   <span class="slds-text-heading_medium slds-m-bottom_x-small">Option 2</span>
                   <span class="slds-text-title">This option is also just a really choice one and is the second option</span>

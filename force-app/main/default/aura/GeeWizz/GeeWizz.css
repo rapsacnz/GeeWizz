@@ -1,0 +1,8 @@
+.THIS.geewizz-fix-margins {
+  margin: -1rem;
+}
+
+.THIS .geewizz-fix-header {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}

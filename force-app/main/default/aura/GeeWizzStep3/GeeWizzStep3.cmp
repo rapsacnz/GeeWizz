@@ -1,0 +1,26 @@
+<aura:component extends="c:GeeWizzStep">
+
+  <!-- attributes -->
+  <aura:attribute name="mapMarkers" type="Object"/>
+  <aura:attribute name="zoomLevel" type="Integer" />
+
+  <aura:method name="init" action="{!c.init}" />
+  <!-- <aura:handler name="init" value="{!this}" action="{!c.init}" /> -->
+  <!--<aura:attribute name="orderStage" type="String" default="type" description="Can be: type, price, payment, confirm" /> -->
+
+  <div class=" slds-card ">
+
+    <!-- the map component -->
+    <lightning:map
+      mapMarkers="{! v.mapMarkers }"
+      zoomLevel="{!v.zoomLevel}" />
+
+  <footer class="slds-card__footer slds-modal__footer " style="text-align:center;">
+    <button class="slds-button slds-button_neutral" onclick="{!c.handleCloseClick}">Finish</button>
+  </footer>
+
+
+  </div>
+
+
+</aura:component>

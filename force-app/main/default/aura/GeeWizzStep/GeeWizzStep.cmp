@@ -9,7 +9,7 @@
   <aura:attribute name="order" type="Object"/>
   <aura:attribute name="direction" type="String" default="forwards"/>
 
-  <c:Apex_Execute aura:id="server" />
+  <!-- <c:Apex_Execute aura:id="server" /> -->
 
   <aura:registerEvent name="componentEvent" type="c:ComponentEvent" />
 
