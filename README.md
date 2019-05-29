@@ -1,5 +1,6 @@
 # GeeWizz
 Integrated Wizard Container - Just implement the interface, add transitions, connect to hooks and you're done!
+
 [![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com/?template=https://github.com/rapsacnz/GeeWizz/)
 
 <h3>Why?</h3>
@@ -23,7 +24,6 @@ The header is a wizard component which is used to main continuity across all the
 
 Here's what it looks like:
 
-[su_spacer size="10"]
 <iframe src="https://giphy.com/embed/C8KC65nH1pM1bdlTYh" width="480" height="396" frameBorder="0" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/C8KC65nH1pM1bdlTYh"></a></p>
 
 <h3>Details</h3>
@@ -41,23 +41,22 @@ The main component contains attributes that define what components it should loa
 In the future, I'm going to feed this in via a wizard wrapper so the same wizard can be used for muliple applications.
 
 These attributes define the next and previous components eg:
-[code lang="html"]
-<aura:attribute name="nextComponentNameMap" type="Map" default='{
-    "":"GeeWizzStep1",
-    "cGeeWizzStep1":"GeeWizzStep2",
-    "cGeeWizzStep2":"GeeWizzStep3",
-    "cGeeWizzStep3":""
-  }' />
-[/code]
 
-[code lang="html"]
-  <aura:attribute name="previousComponentNameMap" type="Map" default='{
-    "cGeeWizzStep1":"",
-    "cGeeWizzStep2":"GeeWizzStep1",
-    "cGeeWizzStep3":"GeeWizzStep2",
-    "":"GeeWizzStep3"
-  }' />
-[/code]
+    <aura:attribute name="nextComponentNameMap" type="Map" default='{
+        "":"GeeWizzStep1",
+        "cGeeWizzStep1":"GeeWizzStep2",
+        "cGeeWizzStep2":"GeeWizzStep3",
+        "cGeeWizzStep3":""
+    }' />
+
+
+
+    <aura:attribute name="previousComponentNameMap" type="Map" default='{
+        "cGeeWizzStep1":"",
+        "cGeeWizzStep2":"GeeWizzStep1",
+        "cGeeWizzStep3":"GeeWizzStep2",
+        "":"GeeWizzStep3"
+    }' />
 
 
 When the Wizard opens, it finds the first component and attempts to instantiate it.
@@ -77,38 +76,36 @@ Thinking about this now, I really should inject it on load...
 Another thing to note is that a function "init" is called on load of the component, rather than using the regular init event, as I have had timing issues using the standard technique.
 
 Here is the most important part - creating the new components:
-[code lang="javascript"]
 
-  createComponent: function(component, nextComponent, dir) {
-    var self = this;
-    var direction = (!dir || dir == undefined) ? 'forwards' : 'backwards';
+    createComponent: function(component, nextComponent, dir) {
+      var self = this;
+      var direction = (!dir || dir == undefined) ? 'forwards' : 'backwards';
 
-    $A.createComponent(
-      "c:" + nextComponent, {
-        "aura:id": nextComponent,
-        userId: component.getReference("v.userId"),
-        direction: direction,
-        next: self.next.bind(self, component),
-        previous: self.previous.bind(self, component),
-        close: self.close.bind(self, component),
-        notify: self.notify.bind(self, component),
-        context: self.context.bind(self, component),
-      },
-      function(newComponent, status, errorMessage) {
+      $A.createComponent(
+        "c:" + nextComponent, {
+          "aura:id": nextComponent,
+          userId: component.getReference("v.userId"),
+          direction: direction,
+          next: self.next.bind(self, component),
+          previous: self.previous.bind(self, component),
+          close: self.close.bind(self, component),
+          notify: self.notify.bind(self, component),
+          context: self.context.bind(self, component),
+        },
+        function(newComponent, status, errorMessage) {
 
-        console.log(status);
+          console.log(status);
 
-        if (status === "SUCCESS") {
-          var body = component.get("v.body");
-          body = [];
-          body.push(newComponent);
-          component.set("v.body", body);
-        } else if (status === "INCOMPLETE") { console.log(errorMessage); }
-          else if (status === "ERROR") { console.log(errorMessage) }
-      }
-    );
-  },
-[/code]
+          if (status === "SUCCESS") {
+            var body = component.get("v.body");
+            body = [];
+            body.push(newComponent);
+            component.set("v.body", body);
+          } else if (status === "INCOMPLETE") { console.log(errorMessage); }
+            else if (status === "ERROR") { console.log(errorMessage) }
+        }
+      );
+    },
 
 Note the `bind` calls - these bind the calls from the sub-components to this component, which is a nice direct way to call methods on the parent.
 
