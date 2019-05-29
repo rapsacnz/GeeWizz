@@ -24,7 +24,10 @@ The header is a wizard component which is used to main continuity across all the
 
 Here's what it looks like:
 
-<iframe src="https://giphy.com/embed/C8KC65nH1pM1bdlTYh" width="480" height="396" frameBorder="0" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/C8KC65nH1pM1bdlTYh"></a></p>
+#<iframe src="https://giphy.com/embed/C8KC65nH1pM1bdlTYh" width="480" height="396" frameBorder="0" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/C8KC65nH1pM1bdlTYh"></a></p>
+
+[![Wizard gif][3]][3]
+[3]: https://media.giphy.com/media/C8KC65nH1pM1bdlTYh/giphy.gif
 
 <h3>Details</h3>
 
