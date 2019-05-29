@@ -23,11 +23,7 @@ If you would like the buttons on the Wizard itself rather than the children, tha
 The header is a wizard component which is used to main continuity across all the screens. You of course can update the text as you proceed through the screens.
 
 Here's what it looks like:
-
-#<iframe src="https://giphy.com/embed/C8KC65nH1pM1bdlTYh" width="480" height="396" frameBorder="0" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/C8KC65nH1pM1bdlTYh"></a></p>
-
-[![Wizard gif][3]][3]
-[3]: https://media.giphy.com/media/C8KC65nH1pM1bdlTYh/giphy.gif
+![wizard gif][wizardgif]
 
 <h3>Details</h3>
 
@@ -118,3 +114,5 @@ Of course you could just put it on a page or load it onto a lightning layout.
 Currently this wizard does not save it's status / context to salesforce, so you need to open it fresh every time.
 This again could be easily rectfied by saving a current status variable to an appropriate location.
 You could also save the context object (encoded as JSON) and rehydrate it on load.
+
+[wizardgif]: https://media.giphy.com/media/C8KC65nH1pM1bdlTYh/giphy.gif
