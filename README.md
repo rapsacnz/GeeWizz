@@ -23,6 +23,7 @@ If you would like the buttons on the Wizard itself rather than the children, tha
 The header is a wizard component which is used to main continuity across all the screens. You of course can update the text as you proceed through the screens.
 
 Here's what it looks like:
+
 ![wizard gif][wizardgif]
 
 <h3>Details</h3>
